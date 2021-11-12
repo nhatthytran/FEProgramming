@@ -1,0 +1,44 @@
+body {
+  padding-top: 50px; }
+
+#endgame {
+  display: none;
+  position: absolute;
+  width: 800px;
+  height: 500px;
+  background: rgba(0, 0, 0, 0.5);
+  left: 0;
+  bottom: 0; }
+  #endgame #won {
+    width: 100px;
+    position: absolute;
+    top: 200px;
+    left: 150px; }
+  #endgame #lose {
+    width: 800px;
+    position: absolute;
+    top: -81px;
+    left: 0px; }
+  #endgame #restart {
+    position: absolute;
+    top: 244px;
+    left: 301px;
+    cursor: pointer;
+    font-size: 1.25cm;
+    color: #fff; }
+
+#start {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  height: 500px; }
+
+#container {
+  display: none;
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  position: relative; }
+
+/*# sourceMappingURL=style.css.map */

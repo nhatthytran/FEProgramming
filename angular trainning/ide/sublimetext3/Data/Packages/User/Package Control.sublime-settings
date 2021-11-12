@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"TypeScript",
+	],
+}
